@@ -1800,4 +1800,18 @@ module.exports = [
       "Tailwind",
     ],
   },
+   {
+    name: "Alula Kibrom (Altsyset)",
+    description: "🌴 Freelancer | 👨🏻‍💻 Developer | ✍️ Blogger",
+    url: "https://businesstyc.com/blog/",
+    tags: [
+      "JavaScript",
+      "Frontend",
+      "Fullstack",
+      "HTML",
+      "CSS",
+      "PHP",
+      "Software Development",
+    ],
+  },
 ];
